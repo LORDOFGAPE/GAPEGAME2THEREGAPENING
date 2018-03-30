@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  SFML.cpp
+c:\users\jin\source\repos\sfml\sfml\sfml.cpp(28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jin\source\repos\sfml\sfml\sfml.cpp(30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  bat.cpp
+  Ball.cpp
+  Generating Code...
+  SFML.vcxproj -> C:\Users\Jin\source\repos\SFML\Debug\SFML.exe
